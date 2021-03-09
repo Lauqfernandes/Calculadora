@@ -8,9 +8,10 @@ body{
 }
 
 .card{
-    margin-top: 80px;
+    margin-top: 60px;
     border-color: rgb(245, 117, 70);
     padding: 30px;
+    margin-bottom: 60px;
 }
 
 .card-header{
@@ -19,7 +20,8 @@ body{
 }
 
 input{
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .btn{
@@ -34,6 +36,10 @@ input{
     background-color: rgb(245, 90, 33);
     border-color:rgb(185, 69, 27);
     color: white;
+}
+
+.historico{
+    text-align: center;
 }
 
 
